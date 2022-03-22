@@ -40,7 +40,7 @@ function App() {
           <Route path="/resume" exact element={<Resume />} />
           <Route path="*" element={<Home />} />
         </Routes>
-        {/* <Footer /> */}
+        {/* <Footer />f */}
       </div>
     </Router>
   );

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.75521177.css",
-    "main.js": "/portfolio/static/js/main.9ff70131.js",
+    "main.js": "/portfolio/static/js/main.e60aac82.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Gillette-resume.pdf": "/portfolio/static/media/Gillette-resume.816eb35e043f58f71dbd.pdf",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/portfolio/index.html",
     "main.75521177.css.map": "/portfolio/static/css/main.75521177.css.map",
-    "main.9ff70131.js.map": "/portfolio/static/js/main.9ff70131.js.map",
+    "main.e60aac82.js.map": "/portfolio/static/js/main.e60aac82.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75521177.css",
-    "static/js/main.9ff70131.js"
+    "static/js/main.e60aac82.js"
   ]
 }

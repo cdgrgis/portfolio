@@ -2,14 +2,16 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/../Assets/Gillette-resume.pdf";
+import pdf from "./resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
-import { Document, Page, pdfjs } from "react-pdf";
+import { Document, Page } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
-pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
+// pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
-const resumeLink =
-  "https://docs.google.com/document/d/1F6tFJCvunombZa_w8TvJ1B1_yrDqIg6sp692R3VuTsI/edit?usp=sharing";
+// const resumeLink =
+//   "https://docs.google.com/document/d/1F6tFJCvunombZa_w8TvJ1B1_yrDqIg6sp692R3VuTsI/edit?usp=sharing";
+
+const resumePage = './resume.pdf'
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
@@ -35,9 +37,7 @@ function ResumeNew() {
         </Row>
 
         <Row className="resume">
-          <Document file={resumeLink} className="d-flex justify-content-center">
-            <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
-          </Document>
+          <img src='https://media.git.generalassemb.ly/user/37795/files/6f18be80-afa5-11ec-93f1-15732541a222' />
         </Row>
 
         <Row style={{ justifyContent: "center", position: "relative" }}>

@@ -17,11 +17,11 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  const [load, upadateLoad] = useState(true);
+  const [load, setLoad] = useState(true);
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      upadateLoad(false);
+      setLoad(false);
     }, 1200);
 
     return () => clearTimeout(timer);
@@ -40,7 +40,7 @@ function App() {
           <Route path="/resume" exact element={<Resume />} />
           <Route path="*" element={<Home />} />
         </Routes>
-        {/* <Footer />f */}
+        {/* <Footer /> */}
       </div>
     </Router>
   );

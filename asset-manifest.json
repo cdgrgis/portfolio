@@ -1,30 +1,28 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.75521177.css",
-    "main.js": "/portfolio/static/js/main.e60aac82.js",
+    "main.js": "/portfolio/static/js/main.390df00e.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Gillette-resume.pdf": "/portfolio/static/media/Gillette-resume.816eb35e043f58f71dbd.pdf",
-    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.ba9458794dca1c746ef2.png",
-    "static/media/blog.png": "/portfolio/static/media/blog.52102140f369ea233010.png",
-    "static/media/chatify.png": "/portfolio/static/media/chatify.9373eddae1a258056c35.png",
-    "static/media/leaf.png": "/portfolio/static/media/leaf.4c15d6eb3fc75cfef85b.png",
+    "static/media/flowtech.png": "/portfolio/static/media/flowtech.73adbfb0e260d7fc0635.png",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/gillette-logo.png": "/portfolio/static/media/gillette-logo.8a736996662ca7e4cbe8.png",
-    "static/media/suicide.png": "/portfolio/static/media/suicide.b72f1f9ffeb4775a7803.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.060de0755bf429485733.pdf",
+    "static/media/chatterbox.png": "/portfolio/static/media/chatterbox.7ef49cbc987a9d8c101b.png",
+    "static/media/tic3.png": "/portfolio/static/media/tic3.918b37de5b80c0cb9e13.png",
+    "static/media/financialtrax.png": "/portfolio/static/media/financialtrax.83e6490e80f0f397aad5.png",
+    "static/media/CG-logos.png": "/portfolio/static/media/CG-logos.ac7ece32174c8bb3997d.png",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/emotion.jpeg": "/portfolio/static/media/emotion.e92e314a236f65bb89af.jpeg",
     "static/media/avatar.svg": "/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/portfolio/index.html",
     "main.75521177.css.map": "/portfolio/static/css/main.75521177.css.map",
-    "main.e60aac82.js.map": "/portfolio/static/js/main.e60aac82.js.map",
+    "main.390df00e.js.map": "/portfolio/static/js/main.390df00e.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75521177.css",
-    "static/js/main.e60aac82.js"
+    "static/js/main.390df00e.js"
   ]
 }
